@@ -6,4 +6,4 @@ Input Control: Reading data from sensors or other external devices connected to 
 Output Management: Driving actuators, LEDs, or other external components via output pins.
 Real-time Processing: Ensuring responsive and accurate signal processing through STM32’s high-performance capabilities.
 
-""his project has been coded using the STM32 Cube IDE software.""
+""This project has been coded using the STM32 Cube IDE software.""
